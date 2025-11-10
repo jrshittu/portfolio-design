@@ -60,7 +60,9 @@ body{
 .user-detail img{
     position: relative;
     top: -100px;
-    width: 920px;
+    max-width: 920px;
+    width: 80%;
+    height: auto
 }
 
 .hero-text{
